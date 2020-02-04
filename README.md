@@ -1,0 +1,2 @@
+# Azking
+Script Azking
